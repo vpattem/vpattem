@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ven005454@gmail.com**
 
-- 📄 Know about my experiences [VENKATESH_DevOps.docx](VENKATESH_DevOps.docx)
+- 📄 Know about my experiences [VENKATESH_DevOps.docx]((https://github.com/vpattem/vpattem/raw/main/[VENKATESH_DevOps.docx]))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
